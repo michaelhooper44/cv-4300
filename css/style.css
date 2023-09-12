@@ -147,9 +147,9 @@ section {
     display:grid;
     grid-template-columns: 1fr;
     background-color:  #DEE7E7;
-    font-size: x-large;
+    font-size: large;
 }
-.one-col-container {
+ .one-col-container {
     display:flex;
     justify-content: center;
     background-color: #DEE7E7;
